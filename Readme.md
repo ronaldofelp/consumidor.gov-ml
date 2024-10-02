@@ -15,6 +15,7 @@ A partir dessa identificação, a empresa pode tomar medidas preventivas para mi
 
 O foco está nas reclamações do segmento de fabricantes de produtos eletrônicos, e os dados abrangem um período de 12 meses, de **julho de 2023 a junho de 2024**.
 
+[Neste link](https://predconsumidorgov.streamlit.app/), você pode acessar o protótipo do projeto.
 
 ## Descrição das variáveis
 
